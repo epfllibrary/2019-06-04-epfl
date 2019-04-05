@@ -46,11 +46,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -182,10 +177,11 @@ and our administrator may contact you if we need any extra information.</h4>
   for more information.
 </p>
 
-<hr/>
-
 <h2 id="registration">Registration</h2>
 Please register through our booking system following [this link](https://bookwhen.com/fr/epfl_library#focus=ev-s19q-20190604000000). Note that registration is open to EPFL PhD Students and researchers. If you are not part of the EPFL community but interested in attending these workshops, please contact us at formations.bib@epfl.ch.
+<hr/>
+
+
 
 
 {% comment %} 
