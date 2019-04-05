@@ -184,6 +184,10 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <hr/>
 
+<h2 id="registration">Registration</h2>
+Please register through our booking system following [this link](https://bookwhen.com/fr/epfl_library#focus=ev-s19q-20190604000000). Note that registration is open to EPFL PhD Students and researchers. If you are not part of the EPFL community but interested in attending these workshops, please contact us at formations.bib@epfl.ch.
+
+
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
@@ -210,7 +214,7 @@ and our administrator may contact you if we need any extra information.</h4>
   to match your plans.  You may also want to change 'Day 1' and 'Day
   2' to be actual dates or days of the week.
 {% endcomment %}
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Schedule (to be updated)</h2>
 
 {% if page.carpentry == "swc" %}
   {% include sc/schedule.html %}
