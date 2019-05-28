@@ -255,7 +255,7 @@ Please register through our booking system following [this link](https://bookwhe
   please preview your site before committing, and make sure to run
   'tools/check' as well.
 {% endcomment %}
-<h2 id="syllabus">Syllabus  (to be updated)</h2>
+<h2 id="syllabus">Syllabus </h2>
 
 {% if page.carpentry == "swc" %}
   {% include sc/syllabus.html %}
