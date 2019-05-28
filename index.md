@@ -210,7 +210,7 @@ Please register through our booking system following [this link](https://bookwhe
   to match your plans.  You may also want to change 'Day 1' and 'Day
   2' to be actual dates or days of the week.
 {% endcomment %}
-<h2 id="schedule">Schedule (to be updated)</h2>
+<h2 id="schedule">Schedule</h2>
 
 {% if page.carpentry == "swc" %}
   {% include sc/schedule.html %}
