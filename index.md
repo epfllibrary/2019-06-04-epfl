@@ -178,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <h2 id="registration">Registration</h2>
-Please register through our booking system following [this link](https://bookwhen.com/fr/epfl_library#focus=ev-s19q-20190604000000). Note that registration is open to EPFL PhD Students and researchers. If you are not part of the EPFL community but interested in attending these workshops, please contact us at formations.bib@epfl.ch.
+Please register through our booking system following [this link](https://bookwhen.com/fr/epfl_library#focus=ev-snse-20200213000000). Note that registration is open to EPFL PhD Students and researchers. If you are not part of the EPFL community but interested in attending these workshops, please contact us at formations.bib@epfl.ch.
 <hr/>
 
 
